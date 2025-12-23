@@ -1,2 +1,1 @@
-QuizGame
-QuizGameDescription
+QuizGame QuizGame Description
